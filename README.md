@@ -1,4 +1,4 @@
-# cot-4500-as1
+# cot-4500-as2
 Mention requirements.txt
   Figure out how to incorporate and use requirements.txt (use this to install third party libraries)
 
